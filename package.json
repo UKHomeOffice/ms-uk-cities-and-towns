@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UKHomeOffice/ms-organisations.git"
+    "url": "git+https://github.com/UKHomeOffice/ms-uk-cities-and-towns.git"
   },
-  "homepage": "https://github.com/UKHomeOffice/ms-organisations#readme"
+  "homepage": "https://github.com/UKHomeOffice/ms-uk-cities-and-towns#readme"
 }
