@@ -1,7 +1,7 @@
 'use strict'
 
 const ukCitiesAndTowns = [
-    {value: 'Not known', label: 'Not known'},
+    {value: 'Unknown', label: 'Unknown'},
     {value: 'Aberdeen City', label: 'Aberdeen City'},
     {value: 'Ashford', label: 'Ashford'},
     {value: 'Barking and Dagenham', label: 'Barking and Dagenham'},

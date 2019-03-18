@@ -1,6 +1,6 @@
 {
   "name": "ms-uk-cities-and-towns",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Exports a list of uk cities and towns for the modern slavery app into a usable format for hof select elements",
   "main": "index.js",
   "keywords": [
